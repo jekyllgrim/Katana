@@ -1,0 +1,29 @@
+
+$random sword/swing { sswing1 sswing2 sswing2 sswing4 }
+sswing1	sswing1
+sswing2	sswing2
+sswing3	sswing3
+sswing4	sswing4
+
+$random sword/hit { swhit1 swhit2 swhit2 swhit4 }
+swhit1	swhit1
+swhit2	swhit2
+swhit3	swhit3
+swhit4	swhit4
+
+$random sword/hitwall { swwall1 swwall2 }
+swwall1 swwall1
+swwall2 swwall2
+
+$random sword/unsheathe { sunsh1 sunsh2 sunsh3 }
+sunsh1	sunsh1
+sunsh2	sunsh2
+sunsh3	sunsh3
+
+$random sword/sheathe { sshth1 sshth2 sshth3 sshth4 }
+sshth1 sshth1
+sshth2 sshth2
+sshth3 sshth3
+sshth4 sshth4
+
+sword/parry swparry
